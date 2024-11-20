@@ -1,0 +1,38 @@
+ 
+  
+ img{
+  height: 500px;
+  width: 450px;
+  margin: 0 auto;
+ }
+  
+  /* button.prev {
+    left: 10px;
+  }
+  
+  button.next {
+    right: 10px;
+  }
+  
+  .dots {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+  }
+  
+  .dot {
+    width: 10px;
+    height: 10px;
+    background: #ddd;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .dot.active {
+    background: #333;
+  } */
+  
